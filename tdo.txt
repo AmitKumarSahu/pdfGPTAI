@@ -1,0 +1,5 @@
+pip install gradio
+pip install -U scikit-learn
+pip install langchain-serve
+pip install tensorflow-hub
+pip install fitz
